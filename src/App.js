@@ -1,10 +1,10 @@
 import React from 'react';
-
+import Board from './components/board.component'
 
 function App() {
   return (
     <div className="App">
-     <h1>hello!!!</h1>
+     <Board />
     </div>
   );
 }
